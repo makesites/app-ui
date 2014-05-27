@@ -1,0 +1,30 @@
+{
+	"name": "app.ui",
+	"version": "0.0.1",
+	"description": "The collection of APP UI components as one import",
+	"authors": [
+		"Makis Tracend <makis@makesit.es>"
+	],
+	"license": "MIT",
+	"keywords": [
+		"app",
+		"ui",
+		"polymer",
+		"web-components"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/makesites/app-ui.git"
+	},
+	"ignore": [
+		"bower_components",
+		"node_modules"
+	],
+	"dependencies": {
+		"platform": "Polymer/platform#~0.2.3",
+		"polymer": "Polymer/polymer#~0.2.3",
+		"app": "*",
+		"app.ui.fullscreen": "*",
+		"app.ui.stickyheader": "*"
+	}
+}
