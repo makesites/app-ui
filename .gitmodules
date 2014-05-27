@@ -1,0 +1,6 @@
+[submodule "sticky-header"]
+	path = sticky-header
+	url = git://github.com/app-ui/sticky-header.git
+[submodule "fullscreen"]
+	path = fullscreen
+	url = git://github.com/app-ui/fullscreen.git
